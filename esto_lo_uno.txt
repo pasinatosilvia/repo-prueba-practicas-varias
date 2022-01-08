@@ -4,3 +4,6 @@ lista colores
 
 naranja
 violeta
+rojo
+amarillo
+verde
