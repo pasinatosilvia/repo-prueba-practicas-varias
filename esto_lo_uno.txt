@@ -1,9 +1,0 @@
-esto lo uniré para ver si da conflictos
-
-lista colores
-
-naranja
-violeta
-rojo
-amarillo
-verde
